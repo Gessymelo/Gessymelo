@@ -30,7 +30,7 @@ Eu sou a Gessy, tenho 31 anos, moro em João Pessoa/PB, Brasil, sou formada em N
 
   <h3> 📌 Contato</h3>
     <br>
-     Pode me chamar para conversar sobre tecnologia, desenvolvimento front-end, carreira, desenhos e melhores séries para fazer maratona
+     Pode me chamar para conversar sobre tecnologia, desenvolvimento front-end, carreira, anime emelhores doramas para fazer maratona
     
     
 <div>
