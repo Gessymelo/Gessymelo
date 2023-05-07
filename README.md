@@ -26,5 +26,5 @@
 </div>
 
   
-![snake gif](https://github.com/gessymelo/Gessymelo/blob/output/github-contribution-grid-snake.svg)
+
 
