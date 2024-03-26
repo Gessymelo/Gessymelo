@@ -5,7 +5,7 @@
 Eu sou a Gessy, tenho 31 anos, moro em João Pessoa/PB, Brasil, sou formada em Nutrição mas estou em transição de carreira, atualmente sou estudante de Sistemas para internet. 
  Apaixonada por tecnologia, desenvolvimento front-end, inovação e possibilidades. 
 
-- 🚀 Estudando para me tornar uma desenvolvedora front-end e fullstack
+- 🚀 Estudando para me tornar uma desenvolvedora fullstack
   
 <br>
 <div>
