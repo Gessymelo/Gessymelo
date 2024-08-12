@@ -17,15 +17,20 @@ Eu sou a Gessy, tenho 31 anos, moro em João Pessoa/PB, Brasil, sou formada em N
   
   <h2>💻🚀  Tecnologias e ferramentas<h2>
 <div style="display: inline_block"><br>
+
+ <code><img height="30" alt="java"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" ></code>
+ <code><img height="30" alt="spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" /></code>    
+ <code><img height="30" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+ <code><img height="30" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"></code>
   <code><img height="30" alt="html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code> 
   <code><img height="30" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
-  <code><img height="30" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+  <code><img height="30" alt="postgresql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg">
   <code><img height="30" alt="figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></code> 
   <code><img height="30" alt="bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"></code>
   <code><img height="30" alt="git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
-   <code><img height="30" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"></code>
- <code><img height="30" alt="postgresql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"></code>
- <code><img height="30" alt="spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" /></code>
+   
+ </code>
+ 
  
 </div>
 
